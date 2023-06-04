@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/obj/Debug/net7.0/scopedcss/projectbundle/Wasm.bundle.scp.css",
+      "PackagePath": "staticwebassets/Wasm.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Wasm/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Wasm.props",
+      "PackagePath": "build\\Wasm.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\Wasm.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Wasm.props",
+      "PackagePath": "buildTransitive\\Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

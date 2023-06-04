@@ -1,0 +1,15 @@
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/bin/Debug/net7.0/Application.deps.json
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/bin/Debug/net7.0/Application.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/bin/Debug/net7.0/Application.pdb
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/bin/Debug/net7.0/Domain.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/bin/Debug/net7.0/Domain.pdb
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/Application.pdb
+/Users/aleynameydan/Desktop/UpSchool-FullStack-Development-Bootcamp/Project/Application/obj/Debug/net7.0/ref/Application.dll
